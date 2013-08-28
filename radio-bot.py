@@ -16,7 +16,7 @@ class test_question:
 
 test = []
 
-radio_test_file = codecs.open('radio-test.txt', 'r', 'utf-8')
+radio_test_file = codecs.open('general.txt', 'r', 'utf-8')
 
 radio_test = radio_test_file.read()
 

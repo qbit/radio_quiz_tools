@@ -1,9 +1,9 @@
 import re
 import codecs
 from json import JSONEncoder
-import redis
+# import redis
 
-r = redis.StrictRedis(host='localhost', port=6379, db=0)
+# r = redis.StrictRedis(host='localhost', port=6379, db=0)
 
 class MyEncoder(JSONEncoder):
 	def default(self, o):
@@ -33,8 +33,8 @@ for question in match:
 	item.answer = question[1]
 	item.question = question[2]
 
-	r.hset("ham:"+item.id, 'question', item.question)
-	r.hset("ham:"+item.id, 'answer', item.answer)
+	# r.hset("ham:"+item.id, 'question', item.question)
+	# r.hset("ham:"+item.id, 'answer', item.answer)
 
 	test.append(item)
 

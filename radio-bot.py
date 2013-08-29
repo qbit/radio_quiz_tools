@@ -31,7 +31,6 @@ for test_file in test_files:
 	radio_test_txt = radio_test_file.read()
 
 	regex_string = r"(?P<id>%c[0-9][A-C][0-9][0-9]) \((?P<answer>[A-G])\)\s*(?P<question>[^~]*)" % test_file.char
-	print(regex_string)
 	regex = re.compile(regex_string)
 
 	match = regex.findall(radio_test_txt)

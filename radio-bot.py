@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import re
 import codecs
 from json import JSONEncoder
@@ -20,7 +22,7 @@ class test_question:
 	question = ''
 	answer = ''
 
-test_files = [TestFile('T', 'tech.txt'), TestFile('G', 'general.txt')]
+test_files = [TestFile('T', 'tech.txt'), TestFile('G', 'general.txt'), TestFile('E', 'extra.txt')]
 
 for test_file in test_files:
 

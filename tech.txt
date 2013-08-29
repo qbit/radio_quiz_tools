@@ -1469,6 +1469,7 @@ A. Volts
 B. Watts
 C. Ohms
 D. Amperes
+~~
 
 
 T5A03 (D)
@@ -1486,7 +1487,7 @@ A. Alternating current
 B. Direct current
 C. Normal current
 D. Smooth current
-~
+~~
 
 
 T5A05 (A)

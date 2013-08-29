@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" ng-app>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="Aaron Bieber <qbit@deftly.net>">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Ham Tests</title>
+
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="bower_components/html5shiv/dist/html5shiv.js"></script>
+      <script src="bower_components/respond/respond.min.js"></script>
+    <![endif]-->
+<style>
+body {
+  padding: 50px;
+  text-align: center;
+}
+
+#question {
+  display: none;
+}
+</style>
+  </head>
+
+  <body>
+    <div id="testsel" ng-controller="testSelect">
+      <h1>Select a test:</h1>
+      <button type="button" class="btn btn-default" ng-click="loadTech()">Technician</button>  
+      <button type="button" class="btn btn-default" ng-click="loadGen()">General</button>  
+      <button type="button" class="btn btn-default" ng-click="loadExt()">Extra</button>  
+    </div>
+
+    <div id="question" class="jumbotron">
+      <div class="container">
+	<i>{{item.id}}</i><br />
+        <h1>{{item.question}}</h1>
+        <h1>{{item.answers}}<h1>
+      </div>
+    </div>
+
+    <script src="bower_components/jquery/jquery.min.js"></script>
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="tester.js"></script>
+  </body>
+</html>

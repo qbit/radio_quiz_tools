@@ -1,0 +1,23 @@
+{
+  "name": "ham_tests",
+  "version": "0.0.1",
+  "homepage": "https://github.com/qbit/radio_quiz_tools",
+  "authors": [
+    "Aaron Bieber <deftly@gmail.com>"
+  ],
+  "description": "Simple ham test interface",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "https://github.com/angular/bower-angular.git#~1.0.8",
+    "bootstrap": "~3.0.0"
+  }
+}

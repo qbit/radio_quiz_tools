@@ -2204,7 +2204,7 @@ A. Wire lengths
 B. Physical appearance of components
 C. The way components are interconnected
 D. All of these choices are correct
-
+~~
 
 T6D - Component functions
 

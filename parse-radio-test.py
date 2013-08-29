@@ -51,6 +51,7 @@ for test_file in test_files:
 	json_db = codecs.open(test_file.filename + ".json", 'w', 'utf-8')
 	json_db.write(MyEncoder().encode(test_questions))
 	#print(MyEncoder().encode(test_questions))
+	json_db.close()
 
 #for thing in test_questions:
 	#print(thing.id)

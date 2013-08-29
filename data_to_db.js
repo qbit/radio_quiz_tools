@@ -2,10 +2,17 @@
 var fs = require('fs'),
 redis = require('redis'),
 
-client = redis.createClient();
-client.select(2);
+to_db = process.argv[2],
+from_file = process.argv[3],
 
-fs.readFile('data.json', function(e, data) {
+client = redis.createClient();
+client.select(to_db);
+
+console.log('Importing from "%s" to "%s"', from_file, to_db );
+fs.readFile(from_file, function(e, data) {
+	if ( e  ) {
+		throw e;
+	}
 	var d = JSON.parse(data), i, l, item, count = 0;
 	for( i = 0, l = d.length; i < l; i++ ) {
 		item = d[i];

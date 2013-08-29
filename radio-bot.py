@@ -5,6 +5,12 @@ from json import JSONEncoder
 
 # r = redis.StrictRedis(host='localhost', port=6379, db=0)
 
+class TestFile:
+	def __init__(self, char, filename):
+		self.char = char
+		self.filename = filename
+
+
 class MyEncoder(JSONEncoder):
 	def default(self, o):
 		return o.__dict__  
@@ -14,33 +20,39 @@ class test_question:
 	question = ''
 	answer = ''
 
-test = []
+test_files = [TestFile('T', 'tech.txt'), TestFile('G', 'general.txt')]
 
-radio_test_file = codecs.open('general.txt', 'r', 'utf-8')
+for test_file in test_files:
 
-radio_test = radio_test_file.read()
+	test_questions = []
 
-regex = re.compile(r"(?P<id>T[0-9][A-C][0-9][0-9]) \((?P<answer>[A-G])\)\s*(?P<question>[^~]*)")
+	radio_test_file = codecs.open(test_file.filename, 'r', 'utf-8')
 
-match = regex.findall(radio_test)
+	radio_test_txt = radio_test_file.read()
 
-#print(match.groups())
-#print(len(match))
+	regex_string = r"(?P<id>%c[0-9][A-C][0-9][0-9]) \((?P<answer>[A-G])\)\s*(?P<question>[^~]*)" % test_file.char
+	print(regex_string)
+	regex = re.compile(regex_string)
 
-for question in match:
-	item = test_question()
-	item.id = question[0]
-	item.answer = question[1]
-	item.question = question[2]
+	match = regex.findall(radio_test_txt)
 
-	# r.hset("ham:"+item.id, 'question', item.question)
-	# r.hset("ham:"+item.id, 'answer', item.answer)
+	for question in match:
+		item = test_question()
+		item.id = question[0]
+		item.answer = question[1]
+		item.question = question[2]
 
-	test.append(item)
+		# r.hset("ham:"+item.id, 'question', item.question)
+		# r.hset("ham:"+item.id, 'answer', item.answer)
 
-# for thing in test:
-# 	print(thing.id)
-# 	print(thing.question)
-# 	print(thing.answer)
+		test_questions.append(item)
 
-print MyEncoder().encode(test)
+	json_db = codecs.open(test_file.filename + ".json", 'w', 'utf-8')
+	json_db.write(MyEncoder().encode(test_questions))
+	#print(MyEncoder().encode(test_questions))
+
+#for thing in test_questions:
+	#print(thing.id)
+	#print(thing.question)
+	#print(thing.answer)
+

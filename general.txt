@@ -1,12 +1,12 @@
-FINAL POOL RELEASE – MARCH 1,2011
+FINAL POOL RELEASE  MARCH 1,2011
 ( correction to reflect correct answer to G7A03 per errata )
 Issued by the NCVEC QPC - February 23, 2011
 Edits and Corrections to the General Class, Element 3 Pool
 Released December 6, 2010 to be effective July 1, 2011- June 30, 2015
-We have received feedback via the NCVEC website and through direct communications pointing out minor errors and suggesting clarifications for the 2011 General Class Pool just released.  The QPC has reviewed all of these comments, and is now issuing the attached minor edits and clarifications to the pool. Note that a minor error in the schematic was corrected as well.  
-The schematic error did not affect any of the associated questions. Also, note that one question has been withdrawn as, on reconsideration, we felt it was confusing and of limited relevance.  The other changes were corrections to remove minor typos,improve rules citations, and clarify questions. 
+We have received feedback via the NCVEC website and through direct communications pointing out minor errors and suggesting clarifications for the 2011 General Class Pool just released. The QPC has reviewed all of these comments, and is now issuing the attached minor edits and clarifications to the pool. Note that a minor error in the schematic was corrected as well. 
+The schematic error did not affect any of the associated questions.Also, note that one question has been withdrawn as, on reconsideration, we felt it was confusing and of limited relevance. The other changes were corrections to remove minor typos,improve rules citations,and clarify questions. 
 Thanks to all who provided feedback, and to the committee who worked on these changes so diligently.
-  
+ 
 1. Question G0A06 is being withdrawn due to lack of clarity and limited relevance.
 2. Figure G7-1 is replaced to correct schematic error in which the varactor diode (item 4) was shown reversed.  (See new G7-1 files on the website: www.ncvec.org for download.) 
 
@@ -62,7 +62,7 @@ Jim Wiley - KL7CC - Anchorage VEC
 
 
 2011-2015 Element 3 General Class Question Pool 
-Original Release - December 6,2010 – Revised as of February 23,2011
+Original Release - December 6,2010  Revised as of February 23,2011
 This is the official release of the 2011 General Class (Element 3) Question pool from the Question Pool Committee of the NCVEC
 
 This file is available on the ncvec.org website in PDF (Portable Document Format), Microsoft Word .DOC format, and .TXT format.  Section G7A requires the use of one illustration, a schematic drawing identified as G7-1.  Note that the figure for the 2011 pool differs from that of the previous pool. This drawing file is published separately and is available in raw JPEG and PDF format on the ncvec.org website. 
@@ -129,13 +129,13 @@ G3A - Sunspots and solar radiation; ionospheric disturbances; propagation foreca
 G3B - Maximum Usable Frequency; Lowest Usable Frequency; propagation
 
 
-G3C – Ionospheric layers; critical angle and frequency; HF scatter; Near Vertical Incidence Sky waves
+G3C  Ionospheric layers; critical angle and frequency; HF scatter; Near Vertical Incidence Sky waves
 
 
 
 SUBELEMENT G4 - AMATEUR RADIO PRACTICES [5 Exam Questions - 5 groups]
 
-G4A – Station Operation and setup
+G4A  Station Operation and setup
 
 
 G4B - Test and monitoring equipment; two-tone test
@@ -151,7 +151,7 @@ G4E - HF mobile radio installations; emergency and battery powered operation
 
 
 
-SUBELEMENT G5 – ELECTRICAL PRINCIPLES [3 exam questions – 3 groups]
+SUBELEMENT G5  ELECTRICAL PRINCIPLES [3 exam questions  3 groups]
 
 G5A - Reactance; inductance; capacitance; impedance; impedance matching
 
@@ -159,11 +159,11 @@ G5A - Reactance; inductance; capacitance; impedance; impedance matching
 G5B - The Decibel; current and voltage dividers; electrical power calculations; sine wave root-mean-square (RMS) values; PEP calculations
 
 
-G5C – Resistors, capacitors and inductors in series and parallel; transformers
+G5C  Resistors, capacitors and inductors in series and parallel; transformers
 
 
 
-SUBELEMENT G6 – CIRCUIT COMPONENTS [3 exam question – 3 groups]
+SUBELEMENT G6  CIRCUIT COMPONENTS [3 exam question  3 groups]
 
 G6A - Resistors; capacitors; inductors
 
@@ -171,12 +171,12 @@ G6A - Resistors; capacitors; inductors
 G6B - Rectifiers; solid state diodes and transistors; vacuum tubes; batteries
 
 
-G6C - Analog and digital integrated circuits (IC’s); microprocessors; memory; I/O devices; microwave IC’s (MMIC’s ); display devices
+G6C - Analog and digital integrated circuits (IC9s); microprocessors; memory; I/O devices; microwave IC9s (MMIC9s ); display devices
 
 
 
 
-SUBELEMENT G7 – PRACTICAL CIRCUITS [3 exam question – 3 groups]
+SUBELEMENT G7  PRACTICAL CIRCUITS [3 exam question  3 groups]
 
 G7A - Power supplies; schematic symbols
 
@@ -188,7 +188,7 @@ G7C - Receivers and transmitters; filters, oscillators
 
 
 
-SUBELEMENT G8 – SIGNALS AND EMISSIONS [2 exam questions – 2 groups]
+SUBELEMENT G8  SIGNALS AND EMISSIONS [2 exam questions  2 groups]
 
 G8A - Carriers and modulation: AM; FM; single and double sideband; modulation envelope; overmodulation
 
@@ -197,7 +197,7 @@ G8B - Frequency mixing; multiplication; HF data communications; bandwidths of va
 
 
 
-SUBELEMENT G9 – ANTENNAS AND FEED LINES [4 exam questions – 4 groups]
+SUBELEMENT G9  ANTENNAS AND FEED LINES [4 exam questions  4 groups]
 
 G9A - Antenna feed lines: characteristic impedance and attenuation; SWR calculation, measurement and effects; matching networks
 
@@ -212,7 +212,7 @@ G9D - Specialized antennas
 
 
 
-SUBELEMENT G0 – ELECTRICAL AND RF SAFETY [2 exam Questions – 2 groups]
+SUBELEMENT G0  ELECTRICAL AND RF SAFETY [2 exam Questions  2 groups]
 
 G0A - RF safety principles, rules and guidelines; routine station evaluation
 
@@ -467,7 +467,7 @@ D. All of these choices are correct
 
 
 G1B12 (A) [97.101(a)]
-Who or what determines “good engineering and good amateur practice” as applied to the operation of an amateur station in all respects not covered by the Part 97 rules?
+Who or what determines "good engineering and good amateur practice" as applied to the operation of an amateur station in all respects not covered by the Part 97 rules?
 A. The FCC
 B. The Control Operator
 C. The IEEE
@@ -587,7 +587,7 @@ Which of the following is a proper way to identify when transmitting using phone
 A. Give your call sign followed by the words "General Class"
 B. No special identification is needed
 C. Give your call sign followed by "slant AG"
-D. Give your call sign followed the abbreviation “CSCE”
+D. Give your call sign followed the abbreviation "CSCE"
 ~~
 
 
@@ -651,7 +651,7 @@ G1D08 (B) [97.509(b)(3)]
 Which of the following criteria must be met for a non-U.S. citizen to be an accredited Volunteer Examiner?
 A. The person must be a resident of the U.S. for a minimum of 5 years
 B. The person must hold an FCC granted Amateur Radio license of General Class or above
-C. The person’s home citizenship must be in the ITU 2 region
+C. The person9s home citizenship must be in the ITU 2 region
 D. None of these choices is correct; non-U.S. citizens cannot be volunteer examiners
 ~~
 
@@ -678,7 +678,7 @@ G1E - Control categories; repeater regulations; harmful interference; third part
 
 G1E01 (A) [97.115(b)(2)]
 Which of the following would disqualify a third party from participating in stating a message over an amateur station?
-A. The third party’s amateur license had ever been revoked 
+A. The third party9s amateur license had ever been revoked 
 B. The third party is not a U.S. citizen
 C. The third party is a licensed amateur
 D. The third party is speaking in a language other than English, French, or Spanish
@@ -875,7 +875,7 @@ G2B - Operating courtesy; band plans; emergencies, including drills and emergenc
 G2B01 (C) 
 Which of the following is true concerning access to frequencies?
 A. Nets always have priority
-B. QSO’s in process always have priority
+B. QSO9s in process always have priority
 C. No one has priority access to frequencies, common courtesy should be a guide
 D. Contest operations must always yield to non-contest use of frequencies
 ~~
@@ -923,7 +923,7 @@ What is a practical way to avoid harmful interference when selecting a frequency
 A. Send "QRL?" on CW, followed by your call sign; or, if using phone, ask if the frequency is in use, followed by your call sign
 B. Listen for 2 minutes before calling CQ 
 C. Send the letter "V" in Morse code several times and listen for a response
-D. Send “QSY” on CW or if using phone, announce “the frequency is in use”, then send your call and listen for a response
+D. Send "QSY" on CW or if using phone, announce "the frequency is in use", then send your call and listen for a response
 ~~
 
 
@@ -938,7 +938,7 @@ D. All of these choices are correct
 
 
 G2B08 (A) 
-What is the “DX window” in a voluntary band plan?
+What is the "DX window" in a voluntary band plan?
 A. A portion of the band that should not be used for contacts between stations within the 48 contiguous United States 
 B. An FCC rule that prohibits contacts between stations within the United States and possessions on that band segment 
 C. An FCC rule that allows only digital contacts in that portion of the band 
@@ -960,7 +960,7 @@ When may the FCC restrict normal frequency operations of amateur stations partic
 A. When they declare a temporary state of communication emergency
 B. When they seize your equipment for use in disaster communications
 C. Only when all amateur stations are instructed to stop transmitting
-D. When the President’s War Emergency Powers have been invoked
+D. When the President9s War Emergency Powers have been invoked
 ~~
 
 
@@ -1033,7 +1033,7 @@ D. 5 wpm, as all operators licensed to operate CW can copy this speed
 
 
 G2C06 (D) 
-What does the term “zero beat” mean in CW operation?
+What does the term "zero beat" mean in CW operation?
 A. Matching the speed of the transmitting station
 B. Operating split to avoid interference on frequency
 C. Sending without error
@@ -1042,7 +1042,7 @@ D. Matching your transmit frequency to the frequency of a received signal.
 
 
 G2C07 (A) 
-When sending CW, what does a “C” mean when added to the RST report?
+When sending CW, what does a "C" mean when added to the RST report?
 A. Chirpy or unstable signal
 B. Report was read from S meter reading rather than estimated
 C. 100 percent copy
@@ -1079,7 +1079,7 @@ D. Quitting operation
 
 
 G2C11 (D) 
-What does the Q signal “QRV” mean?
+What does the Q signal "QRV" mean?
 A. You are sending too fast
 B. There is interference on the frequency
 C. I am quitting for the day
@@ -1109,7 +1109,7 @@ D. To provide emergency and public safety communications
 
 
 G2D03 (B) 
-What skills learned during “hidden transmitter hunts” are of help to the Amateur Auxiliary? 
+What skills learned during "hidden transmitter hunts" are of help to the Amateur Auxiliary? 
 A. Identification of out of band operation 
 B. Direction finding used to locate stations violating FCC Rules
 C. Identification of different call signs 
@@ -1137,7 +1137,7 @@ D. Only when the foreign country is a member of the International Amateur Radio 
 
 
 G2D06 (C)
-How is a directional antenna pointed when making a “long-path” contact with another station?
+How is a directional antenna pointed when making a "long-path" contact with another station?
 A. Toward the rising Sun 
 B. Along the gray line 
 C. 180 degrees from its short-path heading
@@ -1260,10 +1260,10 @@ D. Repeater transmission type
 
 G2E08 (A) 
 What segment of the 80 meter band is most commonly used for data transmissions?
-A. 3570 – 3600 kHz
-B. 3500 – 3525 kHz
-C. 3700 – 3750 kHz
-D. 3775 – 3825 kHz
+A. 3570  3600 kHz
+B. 3500  3525 kHz
+C. 3700  3750 kHz
+D. 3775  3825 kHz
 ~~
 
 
@@ -1404,8 +1404,8 @@ D. Microwave communications become unstable
 G3A10 (C) 
 What causes HF propagation conditions to vary periodically in a 28-day cycle?
 A. Long term oscillations in the upper atmosphere
-B. Cyclic variation in the Earth’s radiation belts
-C. The Sun’s rotation on its axis
+B. Cyclic variation in the Earth9s radiation belts
+C. The Sun9s rotation on its axis
 D. The position of the Moon in its orbit
 ~~
 
@@ -1422,7 +1422,7 @@ D. 11 years
 G3A12 (B) 
 What does the K-index indicate?
 A. The relative position of sunspots on the surface of the Sun
-B. The short term stability of the Earth’s magnetic field
+B. The short term stability of the Earth9s magnetic field
 C. The stability of the Sun's magnetic field
 D. The solar radio flux at Boulder, Colorado
 ~~
@@ -1432,7 +1432,7 @@ G3A13 (C)
 What does the A-index indicate? 
 A. The relative position of sunspots on the surface of the Sun 
 B. The amount of polarization of the Sun's electric field
-C. The long term stability of the Earth’s geomagnetic field
+C. The long term stability of the Earth9s geomagnetic field
 D. The solar radio flux at Boulder, Colorado
 ~~
 
@@ -1610,7 +1610,7 @@ D. All of these choices are correct
 
 
 G3C04 (D)
-What does the term “critical angle” mean as used in radio wave propagation?
+What does the term "critical angle" mean as used in radio wave propagation?
 A. The long path azimuth of a distant station
 B. The short path azimuth of a distant station
 C. The lowest takeoff angle that will return a radio wave to the Earth under specific ionospheric conditions
@@ -1703,7 +1703,7 @@ D. Double hop propagation near the LUF
 
 SUBELEMENT G4 - AMATEUR RADIO PRACTICES [5 Exam Questions - 5 groups]
 
-G4A – Station Operation and set up
+G4A  Station Operation and set up
 
 G4A01 (B) 
 What is the purpose of the "notch filter" found on many HF transceivers?
@@ -2189,7 +2189,7 @@ D. 14.3455 to 14.3485 MHz
 
 
 G4D10 (A) 
-How close to the lower edge of the 40 meter General Class phone segment should your displayed carrier frequency be when using 3 kHz wide LSB?
+How close to the loweredge of the 40 meter General Class phone segment should your displayed carrier frequency be when using 3 kHz wideLSB?
 A. 3 kHz above the edge of the segment
 B. 3 kHz below the edge of the segment
 C. Your displayed carrier frequency may be set at the edge of the segment
@@ -2198,7 +2198,7 @@ D. Center your signal on the edge of the segment
 
 
 G4D11 (B) 
-How close to the upper edge of the 20 meter General Class band should your displayed carrier frequency be when using 3 kHz wide USB? 
+How close to the upper edge of the 20 meter General Class band should your displayed carrier frequency be when using 3 kHz wideUSB? 
 A. 3 kHz above the edge of the band
 B. 3 kHz below the edge of the band
 C. Your displayed carrier frequency may be set at the edge of the band
@@ -2250,7 +2250,7 @@ D. Drawing more than 50 watts from this socket could cause the engine to overhea
 
 G4E05 (C) 
 Which of the following most limits the effectiveness of an HF mobile transceiver operating in the 75 meter band?
-A. “Picket Fencing” signal variation
+A. "Picket Fencing" signal variation
 B. The wire gauge of the DC power line to the transceiver
 C. The antenna system
 D. FCC rules limiting mobile output power on the 75 meter band
@@ -2312,7 +2312,7 @@ D. All of these choices are correct
 ~~
 
 
-SUBELEMENT G5 – ELECTRICAL PRINCIPLES [3 Exam Questions – 3 Groups] 
+SUBELEMENT G5  ELECTRICAL PRINCIPLES [3 Exam Questions  3 Groups] 
 
 G5A - Reactance; inductance; capacitance; impedance; impedance matching
 
@@ -2563,7 +2563,7 @@ D. 5000 watts
 
 
 
-G5C – Resistors, capacitors, and inductors in series and parallel; transformers
+G5C  Resistors, capacitors, and inductors in series and parallel; transformers
 
 G5C01 (C)
 What causes a voltage to appear across the secondary winding of a transformer when an AC voltage source is connected across its primary winding?
@@ -2703,7 +2703,7 @@ D. 80 ohms
 
 
 
-SUBELEMENT G6 – CIRCUIT COMPONENTS [3 Exam Questions – 3 Groups]
+SUBELEMENT G6  CIRCUIT COMPONENTS [3 Exam Questions  3 Groups]
 
 G6A - Resistors; capacitors; inductors 
 
@@ -2755,7 +2755,7 @@ D. The polarity of the capacitor might become reversed
 
 G6A06 (C) 
 What will happen to the resistance if the temperature of a resistor is increased?
-A. It will change depending on the resistor’s reactance coefficient
+A. It will change depending on the resistor9s reactance coefficient
 B. It will stay the same
 C. It will change depending on the resistor's temperature coefficient
 D. It will become time dependent
@@ -2966,7 +2966,7 @@ D. Never
 
 
 
-G6C - Analog and digital integrated circuits (IC’s); microprocessors; memory; I/O devices; microwave IC’s (MMIC’s ); display devices 
+G6C - Analog and digital integrated circuits (IC9s); microprocessors; memory; I/O devices; microwave IC9s (MMIC9s ); display devices 
 
 G6C01 (D) 
 Which of the following is an analog integrated circuit?
@@ -3005,7 +3005,7 @@ D. Resistant to Overload Memory
 
 
 G6C05 (C)
-What is meant when memory is characterized as “non-volatile”?
+What is meant when memory is characterized as "non-volatile"?
 A. It is resistant to radiation damage
 B. It is resistant to high temperatures
 C. The stored information is maintained even if power is removed
@@ -3129,7 +3129,7 @@ C. A connector designed for serial multiple access signals
 D. A type of push-on connector intended for high-voltage applications
 ~~
 
-G7 – PRACTICAL CIRCUITS [3 Exam Questions – 3 Groups]
+G7  PRACTICAL CIRCUITS [3 Exam Questions  3 Groups]
 
 
 G7A Power supplies; and schematic symbols
@@ -3489,7 +3489,7 @@ D. A computer model which can simulate performance of a radio to aid in the desi
 ~~
 
 
-SUBELEMENT G8 – SIGNALS AND EMISSIONS [2 Exam Questions – 2 Groups]
+SUBELEMENT G8  SIGNALS AND EMISSIONS [2 Exam Questions  2 Groups]
 
 G8A - Carriers and modulation: AM; FM; single and double sideband; modulation envelope; overmodulation
 
@@ -3715,7 +3715,7 @@ D. Bandwidth is constant for data mode signals
 
 
 
-SUBELEMENT G9 – ANTENNAS AND FEED LINES [4 Exam Questions – 4 Groups]
+SUBELEMENT G9  ANTENNAS AND FEED LINES [4 Exam Questions  4 Groups]
 
 
 G9A - Antenna feed lines: characteristic impedance, and attenuation; SWR calculation, measurement and effects; matching networks 
@@ -4239,7 +4239,7 @@ D. They have poor harmonic rejection
 
 
 
-SUBELEMENT G0 – ELECTRICAL AND RF SAFETY [2 Exam Questions – 2 Groups]
+SUBELEMENT G0  ELECTRICAL AND RF SAFETY [2 Exam Questions  2 Groups]
 
 G0A - RF safety principles, rules and guidelines; routine station evaluation
 
@@ -4453,7 +4453,7 @@ G0B10 (A)
 Which of the following is a danger from lead-tin solder?
 A. Lead can contaminate food if hands are not washed carefully after handling
 B. High voltages can cause lead-tin solder to disintegrate suddenly
-C. Tin in the solder can “cold flow” causing shorts in the circuit
+C. Tin in the solder can "cold flow" causing shorts in the circuit
 D. RF energy can convert the lead into a poisonous gas
 ~~
 

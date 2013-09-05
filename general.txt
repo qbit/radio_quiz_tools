@@ -2421,6 +2421,8 @@ A. To minimize transmitter power output
 B. To maximize the transfer of power
 C. To reduce power supply ripple
 D. To minimize radiation resistance
+~~
+
 
 
 G5A13 (D) 
